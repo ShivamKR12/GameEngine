@@ -1,0 +1,9 @@
+[submodule "panda3d"]
+	path = panda3d
+	url = https://github.com/panda3d/panda3d.git
+[submodule "raylib-py"]
+	path = raylib-py
+	url = https://github.com/overdev/raylib-py.git
+[submodule "pygame-ce"]
+	path = pygame-ce
+	url = https://github.com/pygame-community/pygame-ce.git
